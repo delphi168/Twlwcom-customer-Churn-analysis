@@ -1,9 +1,9 @@
-# Twlwcom-customer-Churn-analysis
+# Telecom-customer-Churn-analysis
 
-Project Overview
+# Project Overview
 This project aims to predict customer churn in a telecom company using various customer attributes like tenure, monthly charges, contract types, and more. By accurately predicting customers who are likely to churn, the company can target retention strategies effectively.
 
-Dataset
+# Dataset
 The dataset consists of 1,000 samples with the following features:
 
 CustomerID: Unique identifier for each customer.
@@ -41,5 +41,5 @@ Random Forest: (Recall: 0.9944, Accuracy: 0.995, F1 Score: 0.9972)
 Customer Segmentation
 Using KMeans clustering, customers were segmented based on their features like monthly charges, tenure, and contract type. Segmentation helps in understanding customer groups better for targeted retention strategies.
 
-Conclusion
+# Conclusion
 This project helps telecom companies identify churn drivers, accurately predict churn, and segment customers for better retention strategies.
